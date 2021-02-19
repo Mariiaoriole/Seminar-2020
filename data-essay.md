@@ -33,5 +33,3 @@ Creative Commons Attribution 3.0
 Использованные форматы данных – .csv, .xlsx.
 Данные были обработаны с помощью Python.
 
-8. Дата-статья (необязательный пункт)
-Ссылка: http://unemploymentvscorona.tilda.ws
